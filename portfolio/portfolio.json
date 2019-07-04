@@ -29,6 +29,21 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/angular.png",
+			"name": "Angular",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/angular2-logo.png",
+			"name": "Angular2 logo",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/rose_logo.png",
+			"name": "Rose logo",
+			"@type": "Painting"
 		}
 	]
 }
